@@ -154,7 +154,7 @@ after inspecting the test predictions.
 
 ## Acknowledgments and contributions
 
-[Add the agreed credit] prepared the supplied labeled dataset.
-I audited the data, reviewed duplicate candidates, trained and evaluated
-the model, and tested prediction from the saved model in Colab.
-I used AI assistance to plan the workflow, draft code, and edit the documentation.
+A friend prepared the labeled dataset. I checked the data for duplicates,
+trained and evaluated the model, and verified that the saved model could
+make predictions in Colab without retraining. I used AI to help plan the
+project, draft code, and edit the README.
