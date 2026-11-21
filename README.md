@@ -11,7 +11,7 @@ A negative review is not automatically profane.
 ## Dataset
 
 I used `kazakh_profanity_share.xlsx`, a labeled dataset prepared by
-[add the dataset contributor's name or agreed credit].
+some student.
 
 - **Dataset access:** [Download the exact Excel file used in this project](kazakh_profanity_share.xlsx).
 - **Text source and selection:** [add the confirmed source and explain how the comments were selected].
