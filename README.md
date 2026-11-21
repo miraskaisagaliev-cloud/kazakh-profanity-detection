@@ -14,10 +14,6 @@ I used `kazakh_profanity_share.xlsx`, a labeled dataset prepared by
 some student.
 
 - **Dataset access:** [Download the exact Excel file used in this project](kazakh_profanity_share.xlsx).
-- **Text source and selection:** [add the confirmed source and explain how the comments were selected].
-- **Original labeling method:** [add the confirmed method, or state that it was not documented].
-- **Synthetic examples:** [state whether any were included; if unknown, say so].
-
 The file contains comment IDs, text, binary labels, and predefined train,
 validation, and test splits. The examples I inspected include reviews of games
 and apps. The test results do not establish performance specifically on reviews
